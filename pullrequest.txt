@@ -1,6 +1,6 @@
 # How to make pull request in anyone else repository:- #
 
-![Click here to watch video tutorial from gwoc](https://drive.google.com/file/d/1MT427pPKeay_pXGNNuE4kMJj0xRkn6G-/view?usp=sharing)
+[Click here to watch video tutorial from gwoc](https://drive.google.com/file/d/1MT427pPKeay_pXGNNuE4kMJj0xRkn6G-/view?usp=sharing)
 <hr>
 *Firstly we have to make an issue then we have to use '/assign' tag to assign that particular issue of any branch we had choosen
 like I have choosed C_CPP branch.After getting assigned forked it and then choose your branch and then open your git bash and
